@@ -1,7 +1,10 @@
 # Hey There, I'm Akarshan👋
 
-**✨ In the world of code, the best spell is Open-Sourcery ✨**
+### ✨ In the world of code, the best spell is Open-Sourcery ✨ 
+<br>
+<br>
 
+*For fun projects in Game Development and Machine Learning checkout my secondary profile: [CodingWarrior33](https://github.com/CodingWarrior33)*
 <!--
 **Kappuccino111/Kappuccino111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
